@@ -2,7 +2,7 @@
 
 # Contact info:
 **Email: skivun@hotmail.com**
-*Skype: sergey345678 *
+_Skype: sergey345678_
 
 ## Summary
 System administrator, network engineer. 15 years experience in TI.
@@ -19,7 +19,7 @@ I want to work in a team of professionals on interesting projects.
 
 ## Code example
 
-## Experience##
+## Experience
 
 * Created, developed and maintained a network, servers and workstations of the company with several branch offices.
 * Finalization of the billing system for the local Internet provider. Made integration with the accounting system. SQL and scripting.
