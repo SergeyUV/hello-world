@@ -1,8 +1,8 @@
 # Vnukov Sergey
 
 # Contact info:
-**Email: skivun@hotmail.com**
-_Skype: sergey345678_
+* **Email: skivun@hotmail.com**
+* _Skype: sergey345678_
 
 ## Summary
 System administrator, network engineer. 15 years experience in TI.
