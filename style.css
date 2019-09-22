@@ -2,15 +2,43 @@ body{
   text-align: center;
 }
 
-main{
-  border: 1px solid blue;
+h1{
+  color: #2d508f;
+}
+
+h2{
+  text-align: left;
+  padding-left: 10px;
 }
 
 header{
-  border: 5px solid gray;
-  margin-bottom: 10px;
-  padding: 3px;
-  box-sizing: border-box;
+  margin-bottom: 20px;
+  text-align: left;
+  padding-top:10px;
+  padding-bottom:10px
+}
+
+main{
+  font-size: 18px;
+  line-height: 26px;
+}
+
+main h2{
+  border-bottom: 1px solid #eaecef;
+  color: #2d508f;
+}
+
+ul {
+  text-align: left;
+}
+
+p{
+  text-align: left;
+  padding-left: 10px;
+}
+
+li{
+  padding-bottom: 10px;
 }
 
 .main-block{
@@ -18,4 +46,21 @@ header{
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+  border: 3px solid #eaecef;
+  border-radius: 5px;
+}
+
+.wrapper{
+  display: inline-block;
+  width:77%;
+  text-align:center;
+}
+
+.myfoto{
+  border-radius: 20px; 
+}
+
+.myfoto-wrapper{
+  display: inline-block;
+  vertical-align: top;
 }
